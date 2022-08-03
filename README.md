@@ -5,7 +5,6 @@
 ### Year 2021
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
-Repo: [https://github.com/bucs110a0fall21/final-project-k-double-j.git](#) 
 
 Slides: [https://docs.google.com/presentation/d/1cJtlRZfYWTsoZJ__z2utDis9vI0sh03tDEEuy6hhnFQ/edit?usp=sharing](#) 
 
